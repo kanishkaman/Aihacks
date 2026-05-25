@@ -1,0 +1,6 @@
+streamlit>=1.36
+google-genai>=0.3.0
+python-dotenv>=1.0
+pandas>=2.2
+plotly>=5.22
+sqlparse>=0.5
